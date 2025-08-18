@@ -1,10 +1,13 @@
-# Computer Interface
+# Computer Interface Modifed & Inproved By Strix
+
+[WARNING THIS PROJECT ISNT IN FOCUS RIGHT NOW UPDATES ARE NOT HAPPENING YET!]
 
 Computer Interface is a library for Gorilla Tag which replaces the base computer with a custom computer, and allows developers to add functionality to it.
 
 Main project contributors:
 
 - [ToniMacaroni](https://github.com/ToniMacaroni)
+-  [Dev9998](https://github.com/dev9998)
 - [Graic](https://github.com/Graicc)
 - [Dev](https://github.com/developer9998)
 - [A Haunted Army](https://github.com/AHauntedArmy)
