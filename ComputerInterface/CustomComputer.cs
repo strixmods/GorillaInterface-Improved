@@ -98,6 +98,10 @@ namespace ComputerInterface
                 { "Rotating", "RotatingMap/DO-NOT-TOUCH/UI (1)/-- Rotating PhysicalComputer UI --" },
                 { "Metropolis", "MetroMain/ComputerArea/GorillaComputerObject/ComputerUI" },
                 { "Attic", "AtticRoomAttic/AtticComputer/GorillaComputerObject/ComputerUI" }
+                { "MonkeBlocksRoomPersistent", "MonkeBlocksComputer/GorillaComputerObject/ComputerUI" }
+                { "BayouMain", "ComputerArea/GorillaComputerObject/ComputerUI" }
+                { "Critters", "UI Elements/UI/GorillaComputerObject/ComputerUI" }
+                { "HoverboardLevel", "UI/GorillaComputerObject/" }
             };
             PrepareMonitor(SceneManager.GetActiveScene(), _computerPathDictionary["GorillaTag"]);
 
